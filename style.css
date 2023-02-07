@@ -1,0 +1,31 @@
+body{
+    box-sizing: border-box;
+}
+.logo{
+    height: 78px;
+}
+.container{
+    margin-bottom: 80px;
+    
+}
+.card-footer{
+    background-color: aliceblue;
+    border-top: none;
+    text-align: center;
+    
+}
+button{
+    color: aliceblue;
+    background-color: black;
+    border-radius: 5px;
+}
+p{
+    color: gray;
+}
+.price{
+    
+    text-align: center;
+}
+.carousel-item{
+   padding: 20px 40px;
+}
